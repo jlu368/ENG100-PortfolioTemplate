@@ -1,9 +1,9 @@
 @charset "utf-8";
 
-a:link{color:#0000FF text-decoration:none !important;}
-a:visited{color:#0000FF text-decoration:none !important;}
-a:hover{color:#3a7c44 text-decoration:none !important;}
-a:active{color:#3b453d text-decoration:none;}
+a:link{color:#0000FF !important;}
+a:visited{color:#0000FF !important;}
+a:hover{color:#3a7c44 !important;}
+a:active{color:#3b453d;}
 
 h1 { font-family: 'Oleo Script Swash Caps', cursive, font-weight: 400;
 font-family: 'Kelly Slab', cursive, font-weight: 400;
