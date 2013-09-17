@@ -14,7 +14,7 @@ font-family: 'Aldrich', sans-serif, font-weight: 400; }
 .navbar
 {
 	float:left;
-	padding:5px;
+	padding:5px 5px 5px .25cm;
 	margin-top:20px;
 	display:block;
 }
